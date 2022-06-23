@@ -1,0 +1,8 @@
+.darkBtn {
+  background-color: #111b47;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  padding: 4px 0;
+  width: 100px;
+}

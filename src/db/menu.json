@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1e0700a2-5183-4291-85cc-2065a036a683",
+    "text": "Home",
+    "link": "#"
+  },
+  {
+    "id": "a30f821b-4d25-4ff0-abdd-e340b3f0dd2b",
+    "text": "About",
+    "link": "#"
+  },
+  {
+    "id": "44dca67a-8e5a-4798-bf8e-b15efd4e1abd",
+    "text": "Contact",
+    "link": "#"
+  }
+]
