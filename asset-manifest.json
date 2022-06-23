@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prictice/static/css/main.b56713a0.css",
+    "main.js": "/react-prictice/static/js/main.b3765170.js",
+    "index.html": "/react-prictice/index.html",
+    "main.b56713a0.css.map": "/react-prictice/static/css/main.b56713a0.css.map",
+    "main.b3765170.js.map": "/react-prictice/static/js/main.b3765170.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56713a0.css",
+    "static/js/main.b3765170.js"
+  ]
+}
